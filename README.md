@@ -9,7 +9,7 @@ this & Object Prototypes
 - [x] 7.11. 关于this、this全面解析
 - [x] 7.12. 对象 
 - [x] 7.13. 混合对象“类” 
-- [ ] 7.14. 原型
+- [x] 7.14. 原型
 - [ ] 7.15. 行为委托
 
 Types & Grammar
