@@ -15,7 +15,7 @@ this & Object Prototypes
 Types & Grammar
 - [x] 7.16.类型、值
 - [x] 7.17.原生函数、部分强制类型转换
-- [ ] 7.18.强制类型转换
+- [x] 7.18.强制类型转换
 - [ ] 7.19.语法、附录A：混合环境javascript
 
 Async & Performance
