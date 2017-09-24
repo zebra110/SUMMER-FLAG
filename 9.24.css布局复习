@@ -8,10 +8,10 @@
 - 解决图片一出盒子~
 
 ```stylus
-.clearfix {
-  overflow: auto;
-  zoom: 1;
-}
+  .clearfix {
+    overflow: auto;
+    zoom: 1;
+  }
 ```
 
 - 使用 Flexbox 的居中布局
