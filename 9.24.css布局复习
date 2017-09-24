@@ -7,8 +7,7 @@
 - 记住一个“positioned”元素是指 position 值不是 static 的元素。
 - 解决图片一出盒子~
 
-```
-.clearfix {
+```.clearfix {
   overflow: auto;
   zoom: 1;
 }
