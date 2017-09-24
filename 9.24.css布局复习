@@ -6,12 +6,14 @@
 - absolute 是最棘手的position值。 absolute 与 fixed 的表现类似，但是它不是相对于视窗而是相对于最近的“positioned”祖先元素。
 - 记住一个“positioned”元素是指 position 值不是 static 的元素。
 - 解决图片一出盒子~
+
 ```stylus
 .clearfix {
   overflow: auto;
   zoom: 1;
 }
 ```
+
 - 使用 Flexbox 的居中布局
 
 ```
