@@ -16,7 +16,7 @@
 
 - 使用 Flexbox 的居中布局
 
-```
+```stylus
 .vertical-container {
   height: 300px;
   display: -webkit-flex;
@@ -29,7 +29,7 @@
 ```
 - 媒体查询
 
-```
+```stylus
 @media screen and (min-width:600px) {
   nav {
     float: left;
@@ -54,7 +54,7 @@
 - 轻松的实现文字的多列布局两种方法
 1. 
 
-```
+```stylus
 .bottom-nav dl {
     float: left;
     width: 18.5%;
@@ -63,7 +63,7 @@
 
 2.
 
-```
+```stylus
 .three-column {
   padding: 1em;
   -moz-column-count: 3;
@@ -77,7 +77,7 @@
 
 - 使用 Flexbox 的布局
 
-```
+```stylus
 .container {
   display: -webkit-flex;
   display: flex;
@@ -104,7 +104,7 @@
 ```
 - 使用 Flexbox 的居中布局(CSS里总算是有了一种简单的垂直居中布局的方法了！)
 
-```
+```stylus
 .vertical-container {
   height: 300px;
   display: -webkit-flex;
